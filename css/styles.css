@@ -1,0 +1,57 @@
+
+.html {
+    background-color: #f1f3f6;
+}
+
+.abajo de img {
+    font-family: ;
+    text-decoration-color: #0c0d11;
+}
+
+.Facebook{
+  height: 100px;
+
+}
+.Formulario {
+    background-color: gray;
+    width: min(60px, 100%);
+    padding: 2px;
+    border-radius: 2px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Formulario fieldset {
+    border: none;
+    text-align: center;
+}
+
+.boton iniciar{
+    background-color: #e9e9ea;
+    text-decoration: none; /* Quitar subrayado */
+    padding: 1rem 3rem; /* Espacio interior */
+    border-radius: .5rem; /* Esquinas redondeadas */
+    color: var(--blanco); /* Color de la letra */
+    margin-top: 3rem; /* Espacio exterior */
+    font-weight: bold; /* En negritas */
+    font-size: 2rem; /* Tamaño de la letra */
+    text-transform: uppercase; /* Para poner todo en mayusculas */
+    text-align: center; /* Centrar texto */
+}
+
+.boton registrar {
+    background-color: #e9e9ea;
+    text-decoration: none; /* Quitar subrayado */
+    padding: 1rem 3rem; /* Espacio interior */
+    border-radius: .5rem; /* Esquinas redondeadas */
+    color: var(--blanco); /* Color de la letra */
+    margin-top: 3rem; /* Espacio exterior */
+    font-weight: bold; /* En negritas */
+    font-size: 2rem; /* Tamaño de la letra */
+    text-transform: uppercase; /* Para poner todo en mayusculas */
+    text-align: center; /* Centrar texto */
+}
+
+.boton iniciar :hover {
+    text-decoration: #80accf;
+}
